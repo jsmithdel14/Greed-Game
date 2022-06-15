@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SaqK9BmjsE4zPCmQuVjZmaXNODja66FgkvWM2HeQCQG0Qhj+SL8UCMWLrLDDPHd+QLlDipfx2Vl2ZKb+WNResQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jsmit\\.vscode\\.git\\C#\\CSE 210 -Class repositories\\Greed\\Greed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jsmit\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\jsmit\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
